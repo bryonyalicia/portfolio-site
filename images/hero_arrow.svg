@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="13px" width="24px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 13"><!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+ <title>Arrow</title>
+ <desc>Created with Sketch.</desc>
+ <g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="Desktop-HD-Copy" fill="#fff" transform="translate(-705 -490)">
+   <g id="Hero-box" transform="translate(246 28)">
+    <g id="Arrow" transform="translate(458.74 462)">
+     <rect id="Rectangle-path" transform="translate(17.842 6.5208) rotate(-45) translate(-17.842 -6.5208)" height="1.6566" width="16.385" y="5.6925" x="9.6495"/>
+     <rect id="Rectangle-path" transform="translate(7.0623 6.5208) rotate(45) translate(-7.0623 -6.5208)" height="1.6566" width="16.385" y="5.6925" x="-1.1304"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
